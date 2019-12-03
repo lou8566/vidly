@@ -4,10 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
+  "jest": {
+    "testURL": "http://localhost/"
+  },
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -22,5 +25,8 @@
     "mongoose": "^5.7.13",
     "winston": "^2.4.0",
     "winston-mongodb": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^22.2.2"
   }
 }
