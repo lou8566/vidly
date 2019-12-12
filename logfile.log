@@ -804,3 +804,37 @@
 {"message":"Unexpected string in JSON at position 11","stack":"SyntaxError: Unexpected string in JSON at position 11\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:215:7)\n    at endReadableNT (_stream_readable.js:1184:12)\n    at processTicksAndRejections (internal/process/task_queues.js:80:21)","expose":true,"statusCode":400,"status":400,"body":"{\n\t\"email\" \"campop74@gmail.com\",\n\t\"password\": \"nohack4u\"\n}","type":"entity.parse.failed","level":"error","timestamp":"2019-12-11T20:42:03.952Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-12-11T21:09:09.876Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-11T21:09:10.894Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-12-12T13:09:55.086Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T13:09:56.122Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-12-12T13:46:02.142Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T13:46:03.158Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-12-12T13:46:06.285Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-12-12T13:46:07.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T13:46:08.151Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T14:14:51.742Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T14:14:52.767Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T14:16:56.440Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T14:16:57.464Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T14:19:42.125Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T14:19:43.144Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T14:21:55.431Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T14:21:56.447Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T14:21:58.539Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T14:21:59.553Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T14:25:04.234Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T14:25:05.255Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T14:30:53.093Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T14:30:54.110Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T14:42:43.480Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T14:42:44.512Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T15:58:01.270Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T15:58:02.287Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T15:59:01.903Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T15:59:02.921Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T15:59:33.859Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T15:59:34.876Z"}
+{"message":"Configuration property \"requireAuth\" is not defined","stack":"Error: Configuration property \"requireAuth\" is not defined\n    at Config.get (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\config\\lib\\config.js:194:11)\n    at module.exports (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\middleware\\admin.js:6:14)\n    at C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\middleware\\auth.js:13:5)\n    at C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express-async-errors\\index.js:17:17\n    at Layer.handle [as handle_request] (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (C:\\Home\\Projects\\Test\\Node Js\\code with mosh\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)","level":"error","timestamp":"2019-12-12T16:01:14.034Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T16:04:30.338Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T16:04:31.373Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2019-12-12T16:04:40.825Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-12-12T16:04:41.846Z"}
